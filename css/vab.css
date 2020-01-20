@@ -10,6 +10,8 @@ header {
 	padding-top: 25px;
 	padding-bottom:25px;
 
+/* header styles */
+/* control + forward slash is how you do a comment*/
 }
 
 h1,h2,h3 {
@@ -21,6 +23,7 @@ header h2 {
 	font-size: 60px;
 	padding-top:50px;
 	margin: 50px auto;
+	text-align: center;
 
 }
 
@@ -93,3 +96,8 @@ p.caption{
 	margin-top: 0;
 	font-size: 20px;
 }
+
+img.headshot{
+	width:228px;
+	height: 228px;
+	border:5px solid #434;
